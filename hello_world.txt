@@ -1,4 +1,6 @@
 Estoy es una prueba de archivo de texto
 Forma parte de un ejercicio del curso de The Odin Project.
 --
-Voy a seguir testeando git, esto es para un segundo test. 
+Voy a seguir testeando git, esto es para un segundo test.
+-- 
+Vamos a hacer un tercer cambio al archivo para ver como funciona unos cambios que se han realizado. 
